@@ -1,8 +1,6 @@
 # All Purpose Set
 
-*Note: This document is best viewed [on github](https://github.com/olsonpm/py_all-purpose-set).
-Pypi's headers are all caps which presents inaccurate information*"
-
+<!-- pypiwarn -->
 
 <br>
 
