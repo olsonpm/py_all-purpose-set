@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "all_purpose_set"
-version = "0.1.0"
+version = "0.1.1a1"
 description = "A set that works with both hashable and non-hashable elements"
 authors = ["Philip Olson <philip.olson@pm.me>"]
 license = "WTFNMFPL-1.0"
