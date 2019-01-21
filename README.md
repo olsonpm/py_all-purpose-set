@@ -13,11 +13,6 @@
 - [Simple usage](#simple-usage)
 - [See also](#see-also)
 - [Api](#api)
-  - [class ApSet([a list])](#class-apseta-list)
-    - [add(something)](#addsomething)
-    - [clear()](#clear)
-    - [has(something)](#hassomething)
-    - [remove(something)](#removesomething)
 - [Test](#test)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
