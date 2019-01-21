@@ -1,10 +1,11 @@
 [tool.poetry]
 name = "all_purpose_set"
-version = "0.1.1a1"
+version = "0.1.1"
 description = "A set that works with both hashable and non-hashable elements"
 authors = ["Philip Olson <philip.olson@pm.me>"]
-license = "WTFNMFPL-1.0"
+readme = "README.md"
 repository = "https://github.com/olsonpm/py_all-purpose-set"
+include = ["license.txt"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
