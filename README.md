@@ -11,6 +11,7 @@
 - [What is it?](#what-is-it)
 - [Why create it?](#why-create-it)
 - [Simple usage](#simple-usage)
+- [See also](#see-also)
 - [Api](#api)
   - [class ApSet([a list])](#class-apseta-list)
     - [add(something)](#addsomething)
@@ -55,6 +56,12 @@ print(someDict in someSet) # prints True
 
 <br>
 
+### See also
+
+- [All Purpose Dict](https://github.com/olsonpm/py_all-purpose-dict)
+
+<br>
+
 ### Api
 
 *Note: This api is young and subject to change quite a bit.  There also may be
@@ -73,9 +80,8 @@ willing to add it so please just raise a github issue or PR with details.*
 
 ##### clear()
 
-##### has(something)
-- this is just for people who prefer the function syntax rather
-  than `key in aSet`
+##### has(something) => bool
+- a function alternative to `key in aSet`
 
 ##### remove(something)
 - raises a `KeyError` if the element doesn't exist
