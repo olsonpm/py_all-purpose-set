@@ -92,6 +92,9 @@ class ApSetIterator:
         self._inst = apSetInst
         self._orderedElementsIterator = iter(apSetInst._orderedElements)
 
+    def __iter__(self):
+        return self
+
     def __next__(self):
         hashable, elementOrId = next(self._orderedElementsIterator)
 
