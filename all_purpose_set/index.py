@@ -2,7 +2,7 @@
 # Imports #
 # ------- #
 
-from ordered_set import OrderedSet
+from ._vendor.ordered_set import OrderedSet
 from .fns import forEach, raise_
 
 
@@ -80,9 +80,7 @@ class ApSet:
                 del self._nonHashableElements[id(element)]
 
         if not elementRemoved:
-            raise KeyError(
-                f"the element '{str(element)}' does not exist in ApSet"
-            )
+            raise KeyError(f"the element '{str(element)}' does not exist in ApSet")
 
         return self
 

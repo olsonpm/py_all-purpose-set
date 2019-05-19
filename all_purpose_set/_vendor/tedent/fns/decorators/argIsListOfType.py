@@ -1,5 +1,5 @@
-from ..._vendorize.ordered_set import OrderedSet
-from ..._vendorize import wrapt
+from from ..._vendor.ordered_set import OrderedSet
+from ..._vendor import wrapt
 
 from ..internal.discardWhen import discardWhen
 from ..internal.get import get
