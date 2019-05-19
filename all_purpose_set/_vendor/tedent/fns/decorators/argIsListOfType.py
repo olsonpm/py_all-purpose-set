@@ -1,4 +1,4 @@
-from from ..._vendor.ordered_set import OrderedSet
+from ..._vendor.ordered_set import OrderedSet
 from ..._vendor import wrapt
 
 from ..internal.discardWhen import discardWhen

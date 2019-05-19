@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: tedent
-Version: 0.1.2
+Version: 0.1.5
 Summary: like dedent but more flexible
 Home-page: https://github.com/olsonpm/py_tedent
 Author: Philip Olson

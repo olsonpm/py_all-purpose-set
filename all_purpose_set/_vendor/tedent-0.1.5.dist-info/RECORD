@@ -1,7 +1,8 @@
-tedent-0.1.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
-tedent-0.1.2.dist-info/METADATA,sha256=1gmvhWpwqVrvdt9buiib2H2NOo10gEPTTVdWAldedQ0,3581
-tedent-0.1.2.dist-info/RECORD,,
-tedent-0.1.2.dist-info/WHEEL,sha256=m7_EWfYWVp7uNOTdFEhPb5K49PyhIPAZSRl16cJVmb0,85
+tedent-0.1.5.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+tedent-0.1.5.dist-info/METADATA,sha256=VwV2VEfO9tyrkpBBMZ7fYsPHPm1uwTfMDGXtBYg8ehw,3581
+tedent-0.1.5.dist-info/RECORD,,
+tedent-0.1.5.dist-info/WHEEL,sha256=m7_EWfYWVp7uNOTdFEhPb5K49PyhIPAZSRl16cJVmb0,85
+tedent-0.1.5.dist-info/top_level.txt,,
 tedent/__init__.py,sha256=ollY7YogA-G2tCZc6qWbst9jerMKKRh0VQFrGzTvtVI,48
 tedent/__pycache__/__init__.cpython-37.pyc,,
 tedent/__pycache__/indentWith.cpython-37.pyc,,
@@ -49,10 +50,11 @@ tedent/fns/decorators/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3h
 tedent/fns/decorators/__pycache__/__init__.cpython-37.pyc,,
 tedent/fns/decorators/__pycache__/argIsCallable.cpython-37.pyc,,
 tedent/fns/decorators/__pycache__/argIsClass.cpython-37.pyc,,
+tedent/fns/decorators/__pycache__/argIsListOfType.cpython-37.pyc,,
 tedent/fns/decorators/__pycache__/argIsType.cpython-37.pyc,,
 tedent/fns/decorators/argIsCallable.py,sha256=QyaFjQbe_6H5RKCbXJwTsu_nKDX5riR8OafqY53AoRE,341
 tedent/fns/decorators/argIsClass.py,sha256=84BYKOBD6l7YlTtXIkE8L1II_bUBrpmfm2ZEudyuU-g,345
-tedent/fns/decorators/argIsListOfType.py,sha256=3ZbKRZbzze_Mw9Qmayr5eDw2t8dR0ReaFjzkXLsL-d8,1741
+tedent/fns/decorators/argIsListOfType.py,sha256=IClvupyzownQ1TzPT5Yl_CmRE0lnisT1VzIGNYn-15U,1736
 tedent/fns/decorators/argIsType.py,sha256=_7HJ97lQ9AtAVVukAsF-YbGF_xQt4OQAj6MpvPny2_0,667
 tedent/fns/discardFirst.py,sha256=zsSfi9HslxZBH5vzuMl3DOYdIEt2YWb_tAmitpRsXV4,550
 tedent/fns/discardLastWhile.py,sha256=lpg_2tOYoSYXQGcs5axyHf_3gbzHEGLo8wlPt2fi1o0,995
